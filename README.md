@@ -16,7 +16,7 @@
 
 <ol>
     <li> Apresentação do Projeto Base </li>
-    <li> Configuração do banco de dados (SGBD <em>PostgreSQL</em>)</li>
+    <li> Configuração do banco de dados (SGBD <em>MySQL</em>)</li>
     <li> Aplicando as <em>annotations</em></li>
     <li>Execução do fluxo back-end: <em>Controller - Service - Repository</em></li>
     <li>Validação - <em>Hibernate Validator</em> </li>
@@ -27,11 +27,11 @@
 
 <ul>
     <li>IDE IntelliJ</li>
-    <li>Java 11</li>
+    <li>Java 17</li>
     <li>Maven</li>
     <li><strong>Spring Web</strong></li>
     <li><strong>Spring Data JPA</strong></li>
-    <li><strong>PostgreSQL Driver</strong></li>
+    <li><strong>MySQL Driver</strong></li>
     <li><strong>Hibernate Validator</strong></li>
     <li>Lombok</li>
     <li>Postman</li>
@@ -81,21 +81,10 @@ Indica qual é o lado inverso ou não dominante da relação.
 </ul>
 
 
-<h2> 🤝 Contribuindo </h2>
+<h2> 🤝 Conclusão </h2>
 
-Este repositório foi criado para fins de estudo, então contribua com ele.
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
-
-Se possível:
-
-⭐️  Star o projeto
-
-🐛 Encontrar e relatar issues
-
-------------
-
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
-
+Este repositório foi criado com auxílio da instrutora da DIO Camila Cavalcante para fins de estudo.
+Agradeço por todo conteudo passado e a didatica de ensino que torna o aprendizado mais facil.
 
 
 
